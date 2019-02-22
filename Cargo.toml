@@ -1,0 +1,8 @@
+[package]
+name = "wannabe"
+version = "0.1.0"
+authors = ["Dan Kim <dan@protopie.io>"]
+edition = "2018"
+
+[dependencies]
+itertools = "0.8.0"
