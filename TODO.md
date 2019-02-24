@@ -1,2 +1,5 @@
-- In이 안 된 이름을 Out 했을 때,
-- 현재 멤버가 아닌 이름을 Mate로 넣었을 때
+- In이 안 된 이름을 Out 했을 때, -> fb 에러 반환
+- 현재 멤버가 아닌 이름을 Mate로 넣었을 때 -> fb 에러 반환
+- 구글 문서 가져와서 파싱
+- print! -> debug!
+- WASM, flatbuffers 적용
